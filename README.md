@@ -12,30 +12,12 @@
   <a href="mailto:udaypyadav628@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-```text
-uday@github
------------
-OS           Windows 11
-Role         Full Stack Developer
-Languages    Java, JavaScript, TypeScript, Python, C/C++
-Frameworks   Spring Boot, React.js, Node.js, Express.js
-Databases    MongoDB, AWS DocumentDB
-
-Contact
--------
-Email        udaypyadav628@gmail.com
-LinkedIn     linkedin.com/in/uday-pratap-yadav-0187b1288
-LeetCode     leetcode.com/u/udaypyadav
-Codeforces   codeforces.com/profile/udaypyadav628
-
-GitHub Stats
-------------
-Repos        5        Followers    0
-Stars        0        Following    0
-Contributions (last year)   26
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Repos-5-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stars-0-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-0-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Contributions%20(last%20year)-26-success?style=flat-square" />
+</p>
 
 ---
 
