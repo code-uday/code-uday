@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Stars-0-yellow?style=flat-square" />
   <img src="https://img.shields.io/badge/Followers-0-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Contributions%20(last%20year)-26-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lines%20of%20Code-16K%2B-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lines%20of%20Code-25K%2B-orange?style=flat-square" />
 </p>
 
 ---
