@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos-5-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repos-7-informational?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-0-yellow?style=flat-square" />
   <img src="https://img.shields.io/badge/Followers-0-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Contributions%20(last%20year)-26-success?style=flat-square" />
